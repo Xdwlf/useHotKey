@@ -1,2 +1,0 @@
-# useHotKey
-Created with CodeSandbox

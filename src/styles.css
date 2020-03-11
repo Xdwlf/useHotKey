@@ -1,0 +1,50 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.display {
+  display: flex;
+  justify-content: space-around;
+}
+
+.textArea {
+  min-width: 200px;
+  box-shadow: 1px 1px 5px lightgray;
+  padding: 0px 30px 20px 30px;
+  margin-top: 20px;
+}
+
+.keypressdisplay {
+  padding: 5px;
+  font-size: 20px;
+}
+
+.currentKey {
+  color: rebeccapurple;
+}
+.currentKeyText {
+  color: black;
+}
+.hotKeyTitle {
+  text-align: center;
+}
+
+.hotKeys {
+  text-align: left;
+  min-width: 200px;
+  box-shadow: 1px 1px 5px lightgray;
+  padding: 0px 30px 20px 30px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+
+.playground {
+  margin-top: 20px;
+  margin: 20px auto;
+  margin-left: 20px;
+  border-radius: 5px;
+  padding: 20px;
+  opacity: 80%;
+  box-shadow: 1px 1px 5px lightgray, 3px 3px 10px lightgray;
+}
